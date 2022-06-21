@@ -149,6 +149,7 @@ section{
 
 .banner{
     min-height: 80vh;
+    min-width: 120vh;
     background-image: url(https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wJTIwY29kZXxlbnwwfHwwfHw%3D&w=1000&q=80);
     background-size: cover;
     background-position: center;
@@ -393,6 +394,7 @@ section{
 
 .contact{
     background:url(https://fiverr-res.cloudinary.com/image/upload/w_880/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg) no-repeat;
+    min-width: 120vh;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
